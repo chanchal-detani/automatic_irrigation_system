@@ -34,7 +34,7 @@ In this project, one will be able to add, update, delete plots by entering all t
 
 More ever, projects please follow the project request flow diagram below:
 
-[Product Flow Diagram][flow-diagram]]
+[Product Flow Diagram][flow-diagram]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
